@@ -1,0 +1,21 @@
+.about-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.about-cont h1 {
+    color: rgb(17, 207, 0);
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.about-cont p {
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+}
